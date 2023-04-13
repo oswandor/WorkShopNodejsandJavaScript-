@@ -1,20 +1,32 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Workshop de JavaScript en Jupyter Notebook
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Este workshop es una introducción a los conceptos básicos de JavaScript, utilizando Jupyter Notebook como entorno de desarrollo. Aprenderás cómo funciona JavaScript, su sintaxis, variables, funciones y mucho más. Este taller es perfecto para principiantes en JavaScript, así como para aquellos que quieran refrescar sus conocimientos.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## Temario
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+- Introducción a JavaScript
+- Variables y tipos de datos
+- Operadores y expresiones
+- Estructuras de control de flujo (if/else, while, for)
+- Funciones
+- Objetos y arrays
+- Eventos y manipulación del DOM
+- jQuery y otras librerías
+- Node.js y Express.js
+
+
+## Requisitos previos
+
+- Conocimientos básicos de programación
+- Familiaridad con el entorno de Jupyter Notebook
+
+
+## Instalación y ejecución
+
+1. Clona o descarga el repositorio del workshop.
+2. Abre una terminal y navega al directorio del repositorio.
+3. Instala las dependencias necesarias con el comando `npm install`.
+4. Ejecuta el notebook con el comando `jupyter notebook`.
+5. Abre el archivo `index.ipynb` y comienza el workshop.
+
